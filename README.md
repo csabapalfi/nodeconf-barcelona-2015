@@ -56,22 +56,21 @@ We all know the feeling when a friend approaches with that amazing idea. Good to
 
 ## Coding education should be free - Michelle and Claire
 
-Even in a such a skill shortage coding education remains expensive and inaccessible to a lot of people. Founders and coders is set out to solve this problem by a completely free 8 week face-to-face coding course. Online resources are cool but pretty hard to stay motivated. Community helps remaining on track.
+Even in a such a skill shortage coding education remains expensive and inaccessible to a lot of people. [Founders and coders](TODO) is set out to solve this problem by a completely free 8 week face-to-face coding course. Online resources are cool but pretty hard to stay motivated. Community helps remaining on track.
 Free doesn't mean low quality though. Passionate volunteers are helping out. 8 weeks is not enough to learn everything but enough to start someone's coding career. Please, help mentoring or contribute!
 
 ## Async microservices with node - Bruno Pedro
 
 The de-facto standard way of 'connecting' microservices is using HTTP. A message broker based approach might make this more decoupled and simpler in some cases.
 
-AMQP (and RabbitMQ) is a great option offering lots of flexibility in the patterns used. To simplify things message consumption can actually happen via web-hooks as well using a RabbitMQ plugin. Bruno recommends amqplib as a great node module. Can't agree more. Also check out rascal.
+AMQP (and RabbitMQ) is a great option offering lots of flexibility in the patterns used. To simplify things message consumption can actually happen via web-hooks as well using a RabbitMQ plugin. Bruno recommends [amqplib](TODO) as a great node module. Can't agree more. Also check out [rascal](TODO).
 
 ## Networking for node programmers - Aria Stewart
 
 As node developers we have to be aware of the properties and architecture of the networking protocol stack our apps communicate through. After some history Aria covered the basics of the most important network protocols from all layers: Ethernet, ARP, IP, DNS, TCP. These are nothing new but stood the test of time and important to understand them.
 
-On some more recent new IPv6 is finally really starting to happen and we could hear a bit about p2p once again. Be sure to check out some of the torrent experiments from mafintosh and scuttlebutt from dominictarr.
+On some more recent new IPv6 is finally really starting to happen and we could hear a bit about p2p once again. Be sure to check out some of the [various torrent experiments](TODO) from mafintosh and [scuttlebutt](TODO) from dominictarr.
 
 ## Advanced performance workshop - Tom, Hassy and Igor
 
-A great hands-on workshop with a series of challenges.
-//TODO
+A great hands-on workshop with a series of challenges. Warmed up with a few small exercises including one about how to [async](TODO) correctly to prevent starving the event loop. Then we actually generated flamegraphs using [linux perf tools](TODO) and [stackvis](TODO) to diagnose CPU-usage related problems. Next up a deep dive into the node.js memory model then we were presented with a memory leak challenge to resolve ourselves using [heapdump](TODO) and comparing heap snapshots in Chrome Dev Tools. Last we had a chance to try our new skills on a deliberately performance faulty application. All of this with lots of help and clear explanations from the guys.
