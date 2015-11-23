@@ -4,7 +4,7 @@ Written by Csaba Palfi
 
 //TODO photo
 
-21st November 2015 marked the Barcelona edition of the longest running community-driven Node.js conference. As part of the conference - the day after - Tom Gallacher, Hassy Veldstra and Igor Soarez from YLD delivered a hand-on Node.js Performance workshop. Let's dive in with a short summary of the talks:
+21st November 2015 marked the Barcelona edition of the longest running community-driven Node.js conference. As part of the conference - the day after - Tom Gallacher, Hassy Veldstra and Igor Soarez from YLD delivered a hand-on Node.js Performance workshop. Many thanks to the organizers, had a great weekend! Let's dive in with a short summary of the talks and the workshop:
 
 ## V8 under the hood - Franziska Hinkelman
 
@@ -71,4 +71,4 @@ On some more recent new IPv6 is finally really starting to happen and we could h
 
 ## Advanced performance workshop - Tom, Hassy and Igor
 
-A great hands-on workshop with a series of challenges. Warmed up with a few small exercises including one about how to [async](TODO) correctly to prevent starving the event loop. Then we actually generated flamegraphs using [linux perf tools](TODO) and [stackvis](TODO) to diagnose CPU-usage related problems. Next up a deep dive into the node.js memory model then we were presented with a memory leak challenge to resolve ourselves using [heapdump](TODO) and comparing heap snapshots in Chrome Dev Tools. Last we had a chance to try our new skills on a deliberately performance faulty application. [minigun](TODO) proved to be a great to help generating load to aid our efforts during the whole day. All of this with lots of help and clear explanations from the guys.
+A great hands-on workshop with a series of challenges. Warmed up with a few small exercises including one about how to [async](TODO) correctly to prevent starving the event loop. We then generated flamegraphs ourselves using [linux perf tools](TODO) and [stackvis](TODO) to learn to diagnose CPU-usage related problems. Next up a deep dive into the node.js memory model and we were presented with a memory leak challenge to resolve ourselves using [heapdump](TODO) and comparing heap snapshots in Chrome Dev Tools. Last we had a chance to try our new skills on a deliberately performance faulty application. [minigun](TODO) proved to be a great to help generating load to aid our efforts during the whole day. All of this with lots of help and clear explanations from the guys.
