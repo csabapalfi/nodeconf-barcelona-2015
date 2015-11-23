@@ -38,7 +38,7 @@ Julien demoed all sorts of hardware from RGB LED strips to a dancing Parrot AR d
 
 You might started learning node for just fun or out of necessity but to keep up your motivation it's great to bet on the long run and enjoy to keep up learning.
 
-Igor mentioning the right mentality to keep things simple (YAGNI, no IDEs, no boilerplate, no code generation) reminded me of a great talk from Rich Hickey: Simple made easy.
+Igor mentioning the right mentality to keep things simple (YAGNI, no IDEs, no boilerplate, no code generation) reminded me of a great talk from Rich Hickey: [Simple made easy](TODO).
 
 Also node has the perfect tools for 'turbo mode' learning by keeping your feedback keep really short. Anyone running tests with nodemon and growl? :)
 
@@ -48,7 +48,7 @@ Another piece of great advice is to don't be afraid to open source your code ear
 
 ## Greenkeeper demo - Stephan Bönnemann
 
-Then we saw a short demo of greenkeeper. This tool sends you PRs when your  dependencies release a new version. The PR could then trigger a CI run thus also allowing to automatically detect non-semver-respecting dependencies breaking our own code.
+Then we saw a short demo of [greenkeeper](TODO). This tool sends you PRs when your  dependencies release a new version. The PR could then trigger a CI run thus also allowing to automatically detect non-semver-respecting dependencies breaking our own code.
 
 ## Rapid idea devalidation - David Gruebl
 
