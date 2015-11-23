@@ -1,7 +1,5 @@
 ## NodeConf Barcelona 2015
 
-Written by Csaba Palfi
-
 21st November 2015 marked the [Barcelona edition](http://barcelona.nodeconf.com) of the longest running community-driven Node.js conference. As part of the conference - the day after - Tom Gallacher, Hassy Veldstra and Igor Soarez from YLD delivered a hand-on Node.js Performance workshop. Many thanks to the organizers, had a great weekend! Let's dive in with a short summary of the talks and the workshop:
 
 ## V8 under the hood - Franziska Hinkelman
